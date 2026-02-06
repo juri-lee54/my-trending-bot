@@ -1,0 +1,40 @@
+# 🐍 GitHub Python Trending Bot
+
+매일 자정에 업데이트되는 Python 트렌딩 (AI 한국어 요약)
+
+## 📂 [과거 기록 (Archives)](./archives)
+
+---
+
+### 🔥 Today's Trends (2026-02-06)
+
+Total: 5 repositories
+
+---
+
+#### 1. [openai/skills](https://github.com/openai/skills)
+- **트렌딩 이유:** 🔥 621 stars today
+- **총 스타 수:** ⭐ 4441
+- **요약:** openai/skills 리포지토리는 Codex를 위한 스킬 카탈로그로, 다양한 프로그래밍 기술과 예제를 제공하는 도구입니다.
+
+#### 2. [topoteretes/cognee](https://github.com/topoteretes/cognee)
+- **트렌딩 이유:** 🔥 74 stars today
+- **총 스타 수:** ⭐ 11896
+- **요약:** 이 리포지토리는 AI 에이전트의 메모리 관리를 단 6줄의 코드로 구현할 수 있는 도구입니다. 이를 통해 개발자는 효율적으로 AI의 기억 기능을 활용할 수 있습니다.
+
+#### 3. [chenyme/grok2api](https://github.com/chenyme/grok2api)
+- **트렌딩 이유:** 🔥 71 stars today
+- **총 스타 수:** ⭐ 1062
+- **요약:** Grok2API는 FastAPI를 기반으로 재구축된 API로, 최신 웹 호출 형식에 완전히 적합하며, 스트리밍 및 비스트리밍 대화, 이미지 생성 및 편집, 심층 사고를 지원합니다. 또한, 번호 풀의 동시 처리와 자동 부하 분산 기능이 통합된 도구입니다.
+
+#### 4. [anthropics/skills](https://github.com/anthropics/skills)
+- **트렌딩 이유:** 🔥 894 stars today
+- **총 스타 수:** ⭐ 64243
+- **요약:** GitHub 리포지토리 이름: anthropics/skills  
+이 리포지토리는 에이전트 기술에 대한 공개 자료를 제공하는 공간입니다.
+
+#### 5. [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
+- **트렌딩 이유:** 🔥 49 stars today
+- **총 스타 수:** ⭐ 1412
+- **요약:** PentestAgent는 버그 바운티, 레드 팀, 침투 테스트 워크플로우를 지원하는 블랙박스 보안 테스트를 위한 AI 에이전트 프레임워크입니다.
+
