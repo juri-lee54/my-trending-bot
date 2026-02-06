@@ -24,9 +24,10 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        pip install openai
 
     - name: Run Scraper
-      env: # 🔥 [중요] 이 부분이 있어야 OpenAI가 작동합니다!
+      env: 
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         python main.py
