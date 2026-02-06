@@ -33,7 +33,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Action Bot"
         git config --global user.email "action@github.com"
-        git add archives/*.md
+        git add .
         # 변경 사항이 있을 때만 커밋 (에러 방지)
         git commit -m "Add trending report for $(date +'%Y-%m-%d')" || exit 0
         git push
